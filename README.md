@@ -1,5 +1,5 @@
 # Crank-Nicolson method in 2D
-This repository provides the Crank-Nicolson method to solve the heat equation in 2D. Basically, The numerical method is processed by CPUs, but it can be implemented on GPUs if the CUDA is installed.
+This repository provides the Crank-Nicolson method to solve the heat equation in 2D. Basically, the numerical method is processed by CPUs, but it can be implemented on GPUs if the CUDA is installed.
 
 ### 1. Requirements
 * numpy, torch, tqdm, matplotlib
