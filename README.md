@@ -5,7 +5,7 @@ This repository provides the Crank-Nicolson method to solve the heat equation in
 * numpy, torch, tqdm, matplotlib
 
 ### 2. Default setting
-* Initial condition: a star shape (modifiable)
+* Initial condition: a star shape
 * Boundary condition: zero Neumann
 
 * crank_nicolson.py: iteration
